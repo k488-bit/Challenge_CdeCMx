@@ -2,11 +2,11 @@ COVID-19 VS CONTAMINACIÓN DEL AIRE: UNA RELACIÓN TÓXICA
 ===================
 
 # Contenido
--[Intro]
--[COVID-19]
--[¿PM 2.5?]
--[Monterrey, el escenario del caos]
--[¿Relacion tóxica?]
+- [Intro]
+- [COVID-19]
+- [¿PM 2.5?]
+- [Monterrey, el escenario del caos]
+- [¿Relacion tóxica?]
 
 # Intro
 Dentro de esta aventura, nos adentraremos a un mundo de analisis donde estan envuelto amor, celos y coflictos escandalosos. 
