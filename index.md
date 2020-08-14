@@ -18,6 +18,8 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 
 Espacio para imagen de la republica mexicana haciendo enfasis en Monterrey
 
+![](https://imagenes.milenio.com/uH6ehSmiw7jAtfoBIj3f1wybM0E=/958x596/https://www.milenio.com/uploads/media/2019/09/20/monterrey-fundada-septiembre-diego-montemayor_0_0_958_596.jpg)
+
 Esta ciudad esta en constante desarrollo y movimiento, 
 
 # COVID-19
