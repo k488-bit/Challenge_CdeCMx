@@ -8,4 +8,5 @@ Colaboradoras:
  - Reyna Martinez
 
 Nuestro producto final fue una página web realizada con github pages: 
+
 https://k488-bit.github.io/Challenge_CdeCMx_2020
