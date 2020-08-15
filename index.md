@@ -14,7 +14,7 @@ El brote de COVID-19, ha tenido un gran impacto en nuestra vida diara, cambiando
 <iframe allowfullscreen="" class="data-embed" frameborder="0" src="https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB"></iframe>
 </div>
 
-Espacio para imagen cualquiera
+
 
 ## Monterrey, el escenario.
 Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al norte de México junto a la Sierra Madre Oriental ocupando una superficie total de nuevoleon de 64, 081.94 km^2. Con una Latitud: 25.6714, Longitud: -100.309 25° 40′ 17″ Norte, 100° 18′ 32″ Oeste.
