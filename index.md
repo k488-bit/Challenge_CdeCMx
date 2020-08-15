@@ -84,31 +84,7 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 \[5] Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>
 
 
-<section class="fdb-block team-2">
-  <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-8">
-        <h2>Team</h2>
-      </div>
-    </div>
 
-    <div class="row-50"></div>
+## Equipo A09 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
 
-    <div class="row text-center justify-content-center">
-      <div class="col-sm-3 m-sm-auto">
-        <h3>Karen López</h3>
-        <p>Contribuidora</p>
-      </div>
-
-      <div class="col-sm-3 m-sm-auto">
-        <h2>Jacqueline Reyes</h2>
-        <p>Contribuidora</p>
-      </div>
-
-      <div class="col-sm-3 m-sm-auto">
-        <h2>Reyna Martinez</h2>
-        <p>Contribuidora</p>
-      </div>
-    </div>
-  </div>
-</section>
+### Karen López    Jacqueline Reyes    Reyna Martinez
