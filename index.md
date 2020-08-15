@@ -1,4 +1,4 @@
-COVID-19 VS CONTAMINACIÓN DEL AIRE: UNA RELACIÓN TÓXICA
+Covid-19 VS contaminación del aire: una relación tóxica 
 ===================
 
 ## Contenido
