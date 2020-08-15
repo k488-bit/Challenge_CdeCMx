@@ -88,7 +88,7 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
-        <h1>Team</h1>
+        <h2>Team</h2>
       </div>
     </div>
 
@@ -96,24 +96,18 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 
     <div class="row text-center justify-content-center">
       <div class="col-sm-3 m-sm-auto">
-        <img alt="image" class="img-fluid rounded-circle" src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/90057060_2813106402077235_7240844295849115648_n.jpg?_nc_cat=110&_nc_sid=730e14&_nc_ohc=tIXnx_CRL38AX_W4VX7&_nc_ht=scontent-qro1-1.xx&oh=ee2ed436ac3d1aee493773fa68fb6f07&oe=5F5DD5C8">
-
-        <h2>Karen López</h2>
-        <p>Founder</p>
+        <h3>Karen López</h3>
+        <p>Contribuidora</p>
       </div>
 
       <div class="col-sm-3 m-sm-auto">
-        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/5.jpg">
-
         <h2>Jacqueline Reyes</h2>
-        <p>Founder</p>
+        <p>Contribuidora</p>
       </div>
 
       <div class="col-sm-3 m-sm-auto">
-        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/7.jpg">
-
         <h2>Reyna Martinez</h2>
-        <p>Founder</p>
+        <p>Contribuidora</p>
       </div>
     </div>
   </div>
