@@ -9,7 +9,7 @@ COVID-19 VS CONTAMINACIÓN DEL AIRE: UNA RELACIÓN TÓXICA
 - [¿Relacion tóxica?]
 
 # Intro
-El brote de COVID-19, ha tenido un gran impacto en nuestra vida diara, cambiando nuestro mundo y llevandonos al camino de la adaptación. Todo esto, nos llevo a cambiar nuestro entorno, el uso del automovil, grandes empresas, etcétera. ¿Se puede relacionar el brote de COVID-19 con la contaminacion ambiental? Y si hacemos un analisis más a fondo, ¿Se podria relacionar con el PM 2.5? Vamos a descubrirlo en el centro de la ciudad de Monterrey.
+El brote de COVID-19, ha tenido un gran impacto en nuestra vida diara, cambiando nuestro mundo y llevandonos al camino de la adaptación. Todo esto, nos llevo a cambiar nuestro entorno, el uso del automovil, grandes empresas, etcétera. ¿Se puede relacionar el brote de COVID-19 con la contaminacion ambiental? Y si hacemos un analisis más a fondo, ¿Se podria relacionar con el PM 2.5 y el clima? Vamos a descubrirlo en el centro de la ciudad de Monterrey.
 
 Espacio para imagen cualquiera
 
@@ -21,8 +21,13 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 Esta ciudad esta en constante desarrollo y movimiento, 
 
 # COVID-19
-EL
+EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos asi como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades mas graves. Actualmente el COVID-19 es una
 
 # ¿PM 2.5?
 
+
 # ¿Relación tóxica?
+
+
+===========
+# Bibliografia
