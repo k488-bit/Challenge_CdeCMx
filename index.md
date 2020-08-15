@@ -78,11 +78,11 @@ La gráfica indica que si bien al principio se redujo en gran medida la movilida
 
 ## Bibliografía
 
-\[1] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
+\[1] Indicadores Nuevo León, CONCANACO SERVYTUR México. Recuperado el 14 de agosto del 2020 de <https://www.concanaco.com.mx/documentos/indicadores-estados/Nuevo-Leon.pdf>
 
-\[2] Indicadores Nuevo León, CONCANACO SERVYTUR México. Recuperado el 14 de agosto del 2020 de <https://www.concanaco.com.mx/documentos/indicadores-estados/Nuevo-Leon.pdf>
+\[2] Monterrey reiniciará actividades económicas el 14 de mayo, Forbes México. Recuperado el 14 de agosto del 2020 de <https://www.forbes.com.mx/economia-monterrey-reiniciara-actividades-economicas-14-mayo/>
 
-\[3] Monterrey reiniciará actividades económicas el 14 de mayo, Forbes México. Recuperado el 14 de agosto del 2020 de <https://www.forbes.com.mx/economia-monterrey-reiniciara-actividades-economicas-14-mayo/>
+\[3] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
 \[4]
 
