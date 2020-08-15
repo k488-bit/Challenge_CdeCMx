@@ -17,7 +17,8 @@ El brote de COVID-19, ha tenido un gran impacto en nuestra vida diaria, cambiand
 EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
-Imagen 1. Representación animada del COVID-19
+
+*Representación animada del COVID-19*
 
 ### Síntomas
 
@@ -29,19 +30,23 @@ Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las pers
 
 ![Casos en Mty](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
 
+*Ver \[2]*
+
 
 ## Panorama de Monterrey
 
 Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al norte de México junto a la Sierra Madre Oriental ocupando una superficie total de Nuevo León de 64, 081.94 km^2. Con una Latitud: 25.6714, Longitud: -100.309 25° 40′ 17″ Norte, 100° 18′ 32″ Oeste. En la Imagen 2 podemos observar un mapa de la república mexicana que nos señala donde se encuentra Monterrey.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
-*Imagen 2. República Mexicana localizando a Monterrey, Nuevo León*
+*República Mexicana localizando a Monterrey, Nuevo León*
 
 Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo analisis, se pueden observar dos factores que pueden ayudar a la propagación del COVID-19.
 
 ### Temperatura
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
+
+*Ver \[3]*
 
 ### Contaminación del aire
 
@@ -51,18 +56,28 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/daily_max_pollutants.png)
 
+*Ver \[4]*
+
 
 ## Factor social
 
 ### Movilidad
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
-*De acuerdo con los datos proporcionados por https://www.apple.com/covid19/mobility*
-* Revisar sección "Sobre estos datos" en la página anteriormente mencionada.
+
+*Ver \[5]*
+\* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).
 
 
 
 ## Bibliografia
 
-Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
+\[1] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
+\[2] Gráfica obtenida con datos de <https://coronavirus.gob.mx/>
+
+\[3] Gráfica obtenida con datos de <https://es.climate-data.org/america-del-norte/mexico/nuevo-leon/monterrey-3106/>
+
+\[4] Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>
+
+\[5] Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>
