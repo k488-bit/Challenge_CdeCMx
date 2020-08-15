@@ -88,7 +88,7 @@ El ozono
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
-<img src="/k488-bit/Challenge_CdeCMx/blob/master/Images/Animation_apple.gif?raw=true" alt="Animation_apple.gif">
+![](/k488-bit/Challenge_CdeCMx/blob/master/Images/Animation_apple.gif?raw=true)
 
 *Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
 
