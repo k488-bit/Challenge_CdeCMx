@@ -9,7 +9,7 @@ Sobre los contagios de COVID-19 en Monterrey
   * Contaminación del aire
   * Factor social
 
-El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen en los contagios las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
+El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
 
 ## Covid-19
 
@@ -34,7 +34,8 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 *República Mexicana localizando a Monterrey, Nuevo León*
 
 Son bien sabidas las medidas preventivas planteadas en México:
-> Quédate en casa, mantén la sana distancia y aplica medidas higiénicas
+> Quédate en casa, mantén la sana distancia y 
+> aplica medidas higiénicas
 
 Nuevo León no fue la excepción a estas medidas, [aquí](https://www.nl.gob.mx/publicaciones/cuales-son-las-medidas-de-prevencion-por-covid-19) encontrarás algunas recomendaciones publicadas por el gobierno. Hacia finales de marzo, se suspendieron las clases presenciales y las actividades no esenciales. Sin embargo, esto quizás fue apresurado.
 
@@ -48,7 +49,7 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
 
-*Gráfica obtenida con datos de <https://es.climate-data.org/america-del-norte/mexico/nuevo-leon/monterrey-3106/>*
+*Gráfica obtenida con datos de <https://es.climate-data.org>*
 
 ### Contaminación del aire
 
@@ -74,7 +75,7 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 La gráfica indica que si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Si revisamos los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se observa un comportamiento similar.
 
 
-## Bibliografia
+## Bibliografía
 
 \[1] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
@@ -90,6 +91,7 @@ La gráfica indica que si bien al principio se redujo en gran medida la movilida
 
 \[]
 
+\[]
 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
