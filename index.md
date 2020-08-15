@@ -4,13 +4,12 @@ Sobre los contagios de COVID-19 en Monterrey
 ## Contenido
 - COVID-19
   * Síntomas
-  * Medidas en Monterrey
 - Panorama de Monterrey
   * Temperatura
   * Contaminación del aire
-- Factor social
+  * Factor social
 
-El brote de COVID-19, ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto, nos llevó a cambiar nuestro entorno, el uso del automóvil, el comercio, nuestro interacción con las personas, etcétera. ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? Y si hacemos un análisis más a fondo, ¿Se podría relacionar con el PM 2.5 y la temperatura? Vamos a descubrirlo en el centro de la ciudad de Monterrey.
+El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen en los contagios las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
 
 ## Covid-19
 
@@ -18,19 +17,13 @@ EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha de
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
 
-*Representación animada del COVID-19*
+*Representación animada del SARS-CoV-2*
 
 ### Síntomas
 
 Los síntomas más comunes son la fiebre, la tos seca y el cansancio. Mientras que otros menos frecuentes dolores de cabeza y de garganta, congestión nasal, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies.No todas las personas tienen los mismos sintomas y algunos suelen ser leves. 
 
 Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las personas se recuperan sin la necesidad de acudir a un hospital. Además, alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas que son más vulnerables, o bien, que pueden tener más probabilidades de presentar cuadros graves son los adultos mayores y/o las personas que padecen de hipertensión arterial, problemas cardíacos, pulmonares, diabetes o cáncer.
-
-### Medidas en Monterrey
-
-![Casos en Mty](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
-
-*Ver \[2]*
 
 
 ## Panorama de Monterrey
@@ -40,13 +33,22 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
 *República Mexicana localizando a Monterrey, Nuevo León*
 
-Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo analisis, se pueden observar dos factores que pueden ayudar a la propagación del COVID-19.
+Son bien sabidas las medidas preventivas planteadas en México:
+> Quédate en casa, mantén la sana distancia y aplica medidas higiénicas
+
+Nuevo León no fue la excepción a estas medidas, [aquí](https://www.nl.gob.mx/publicaciones/cuales-son-las-medidas-de-prevencion-por-covid-19) encontrarás algunas recomendaciones publicadas por el gobierno. Hacia finales de marzo, se suspendieron las clases presenciales y las actividades no esenciales. Sin embargo, esto quizás fue apresurado.
+
+![Casos en Mty](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
+
+*Gráfica obtenida con datos de <https://coronavirus.gob.mx/>*
+
+El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año. (Ver [3]) Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizarán algunos de ellos.
 
 ### Temperatura
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
 
-*Ver \[3]*
+*Gráfica obtenida con datos de <https://es.climate-data.org/america-del-norte/mexico/nuevo-leon/monterrey-3106/>*
 
 ### Contaminación del aire
 
@@ -56,32 +58,37 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/daily_max_pollutants.png)
 
-*Ver \[4]*
+*Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>*
 
 
-## Factor social
+### Factor social
 
-### Movilidad
+#### Movilidad
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
-*Ver \[5]*
+*Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
 
 \* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).
 
+La gráfica indica que si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Si revisamos los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se observa un comportamiento similar.
 
 
 ## Bibliografia
 
 \[1] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
-\[2] Gráfica obtenida con datos de <https://coronavirus.gob.mx/>
+\[2] Indicadores Nuevo León, CONCANACO SERVYTUR México. Recuperado el 14 de agosto del 2020 de <https://www.concanaco.com.mx/documentos/indicadores-estados/Nuevo-Leon.pdf>
 
-\[3] Gráfica obtenida con datos de <https://es.climate-data.org/america-del-norte/mexico/nuevo-leon/monterrey-3106/>
+\[3] Monterrey reiniciará actividades económicas el 14 de mayo, Forbes México. Recuperado el 14 de agosto del 2020 de <https://www.forbes.com.mx/economia-monterrey-reiniciara-actividades-economicas-14-mayo/>
 
-\[4] Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>
+\[4]
 
-\[5] Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>
+\[5]
+
+\[6]
+
+\[]
 
 
 
