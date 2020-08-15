@@ -33,7 +33,7 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
 Imagen 2. República Mexicana localizando a Monterrey, Nuevo León
 
-Esta ciudad esta en costante desarrollo y movimiento. 
+Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo analisis, se pueden observar dos factores que pueden ayudar a la propagación del COVID-19.
 
 ### Temperatura
 
