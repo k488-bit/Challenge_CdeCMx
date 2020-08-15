@@ -16,6 +16,7 @@ El brote de COVID-19, ha tenido un gran impacto en nuestra vida diaria, cambiand
 EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
+Imagen 1. Representación animada del COVID-19
 
 ### Sintomas
 
@@ -26,9 +27,10 @@ Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las pers
 
 ## Panorama de Monterrey
 
-Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al norte de México junto a la Sierra Madre Oriental ocupando una superficie total de Nuevo León de 64, 081.94 km^2. Con una Latitud: 25.6714, Longitud: -100.309 25° 40′ 17″ Norte, 100° 18′ 32″ Oeste.
+Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al norte de México junto a la Sierra Madre Oriental ocupando una superficie total de Nuevo León de 64, 081.94 km^2. Con una Latitud: 25.6714, Longitud: -100.309 25° 40′ 17″ Norte, 100° 18′ 32″ Oeste. En la Imagen 2 podemos observar un mapa de la república mexicana que nos señala donde se encuentra Monterrey.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
+Imagen 2. República Mexicana localizando a Monterrey, Nuevo León
 
 Esta ciudad esta en costante desarrollo y movimiento. 
 
@@ -51,6 +53,6 @@ h
 
 ===========
 ## Bibliografia
-
+Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2019
 https://www.apple.com/covid19/mobility
 https://www.waze.com/es/covid19
