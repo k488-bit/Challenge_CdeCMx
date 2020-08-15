@@ -57,7 +57,7 @@ Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaci
 El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año. (Ver \[forbes]) Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
 
 
-## Temperatura
+### Temperatura
 
 A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
 
@@ -67,7 +67,7 @@ A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Ve
 
 Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas.
 
-## Contaminación del aire
+### Contaminación del aire
 
 La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
 
@@ -82,9 +82,9 @@ La contaminación del aire representa un importante riesgo para la salud. Existe
 *Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>*
 
 
-## Factor social
+### Factor social
 
-### Movilidad
+##### Movilidad
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
