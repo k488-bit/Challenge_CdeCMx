@@ -45,8 +45,8 @@ Esta ciudad esta en constante desarrollo y movimiento,
 
 ### Movilidad
 
-![Gráfica con datos de Waze](https://github.com/k488-bit/Challenge_CdeCMx/blob/master/Images/WhatsApp%20Image%202020-08-14%20at%2011.24.21%20PM.jpeg)
-![Gráfica con datos de Apple](https://github.com/k488-bit/Challenge_CdeCMx/blob/master/Images/WhatsApp%20Image%202020-08-14%20at%2011.23.28%20PM.jpeg)
+![Gráfica con datos de Waze](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/WhatsApp%20Image%202020-08-14%20at%2011.24.21%20PM.jpeg)
+![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/WhatsApp%20Image%202020-08-14%20at%2011.23.28%20PM.jpeg)
 
 
 ===========
