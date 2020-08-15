@@ -5,9 +5,9 @@ Sobre los contagios de COVID-19 en Monterrey
 - COVID-19
   * Síntomas
 - Panorama de Monterrey
-  * Temperatura
-  * Contaminación del aire
-  * Factor social
+- Temperatura
+- Contaminación del aire
+- Factor social
 
 El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
 
