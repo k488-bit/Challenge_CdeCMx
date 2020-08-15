@@ -34,6 +34,8 @@ El virus se propaga de persona a persona y por tocar superficies infectadas. Cua
 
 *Imagen obtenida de <https://www.mdpi.com/1999-4915/7/2/511/htm>*
 
+Es por esto que se propuso el distanciamiento social y las medidas de higiene, para no entrar en contacto con estas partículas. Además, se corre un mayor riesgo en reuniones en lugares cerrados o con mala ventilación, debido a que los aerosoles se mantienen en el aire por horas. 
+
 
 ## Panorama de Monterrey
 
@@ -57,11 +59,13 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 ## Temperatura
 
+A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
+
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
 
 *Gráfica obtenida con datos de <https://es.climate-data.org>*
 
-25 °C
+Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas.
 
 ## Contaminación del aire
 
@@ -93,8 +97,6 @@ La gráfica indica que si bien al principio se redujo en gran medida la movilida
 Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente, fue aquí donde empezaron los contagios y ha sido una de las ciudades más afectadas (Ver \[infobae]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
 
 
-## Conclusiones
-
 
 ## Bibliografía
 
@@ -110,7 +112,6 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 
 \[] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
-\[] ¿Qué causa la contaminación del aire? Recuperado el 14 de agosto del 2020 de <https://www.heraldo.es/branded/causas-de-la-contaminacion-del-aire/#:~:text=Las%20principales%20causas%20de%20la,y%20del%20transporte%20por%20carretera.>
 
 \[] Ran Xu et al. The Modest Impact of Weather and Air Pollution on COVID-19 Transmission. Recuperado el 14 de agosto del 2020 de <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
 
