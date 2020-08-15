@@ -50,7 +50,7 @@ Son bien sabidas las medidas preventivas planteadas en México:
 
 Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaciones/cuales-son-las-medidas-de-prevencion-por-covid-19) encontrarás algunas recomendaciones publicadas por el gobierno. Hacia finales de marzo, se suspendieron las clases presenciales y las actividades no esenciales. Sin embargo, esto quizás fue apresurado.
 
-![Casos en Mty](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
+![Gráfica 1](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
 
 *Gráfica 1. Obtenida con datos de <https://coronavirus.gob.mx/>*
 
@@ -59,13 +59,13 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 ## Temperatura
 
-A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
+A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[Ran Xu]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
 
 *Gráfica obtenida con datos de <https://es.climate-data.org>*
 
-Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas.
+Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas que se suelen presentar.
 
 ## Contaminación del aire
 
@@ -90,11 +90,11 @@ La contaminación del aire representa un importante riesgo para la salud. Existe
 
 *Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
 
-*\* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).*
+*\* Revisar sección "Sobre estos datos".*
 
-La gráfica indica que si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Si revisamos los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se reactivaron las actividades económicas.
+La gráfica indica que, si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Al revisar los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se reactivaron las actividades económicas.
 
-Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente, fue aquí donde empezaron los contagios y ha sido una de las ciudades más afectadas (Ver \[infobae]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
+Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[infobae]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
 
 
 
@@ -111,7 +111,6 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 \[] Nuevo León y sus principales sectores productivos y estratégicos. Recuperado el 14 de agosto del 2020 de <https://www.gob.mx/se/articulos/nuevo-leon-y-sus-principales-sectores-productivos-y-estrategicos>
 
 \[] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
-
 
 \[] Ran Xu et al. The Modest Impact of Weather and Air Pollution on COVID-19 Transmission. Recuperado el 14 de agosto del 2020 de <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
 
