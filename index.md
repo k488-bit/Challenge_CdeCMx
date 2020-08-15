@@ -9,7 +9,7 @@ Sobre los contagios de COVID-19 en Monterrey
   * Contaminación del aire
   * Factor social
 
-El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
+El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas $PM_{2.5}$ y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey.
 
 ## Covid-19
 
@@ -53,7 +53,7 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 ### Contaminación del aire
 
-Los contaminantes que consideraremos aquí son el ozono (O_3) y el material particulado 2.5 (PM_{2.5}).
+Los contaminantes que consideraremos aquí son el ozono ($O_3$) y el material particulado 2.5 ($PM_{2.5}$).
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
 
