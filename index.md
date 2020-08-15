@@ -85,6 +85,8 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 
 
 
-## Equipo A09 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
+![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/LOGO_CLUBES.png) ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/1.png)
 
-### Karen López    Jacqueline Reyes    Reyna Martinez
+## Equipo A09
+
+### Karen López / Jacqueline Reyes / Reyna Martinez
