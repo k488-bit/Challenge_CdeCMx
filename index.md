@@ -6,9 +6,9 @@ Sobre los contagios de COVID-19 en Monterrey
   * Síntomas
   * ¿Cómo se contagia el coronavirus?
 - Panorama de Monterrey
-  * Temperatura
-  * Contaminación del aire
-  * Factor social
+- Temperatura
+- Contaminación del aire
+- Factor social
 
 El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
 
@@ -57,7 +57,7 @@ Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaci
 El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año. (Ver \[forbes]) Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
 
 
-### Temperatura
+## Temperatura
 
 A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
 
@@ -67,7 +67,7 @@ A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[]). Ve
 
 Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas.
 
-### Contaminación del aire
+## Contaminación del aire
 
 La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
 
@@ -82,9 +82,9 @@ La contaminación del aire representa un importante riesgo para la salud. Existe
 *Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>*
 
 
-### Factor social
+## Factor social
 
-##### Movilidad
+### Movilidad
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
