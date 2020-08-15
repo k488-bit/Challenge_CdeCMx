@@ -53,6 +53,8 @@ h
 
 ===========
 ## Bibliografia
-Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2019
+
+Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
+
 https://www.apple.com/covid19/mobility
 https://www.waze.com/es/covid19
