@@ -71,7 +71,11 @@ Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temp
 
 La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
 
-El ozono 
+>Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. La limpieza mucociliar decrece por la exposición aguda. Los macrófagos alveolares, responsables de la limpieza en la región pulmonar y participantes en la respuesta inmune, pueden disminuir su fagocitosis y su actividad metabólica antimicrobial, incrementar la liberación de prostaglandinas y alterar su cantidad. Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa.
+
+*Ver \[aire.cdmx]*
+
+
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
 
@@ -88,9 +92,7 @@ El ozono
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
-![](/k488-bit/Challenge_CdeCMx/blob/master/Images/Animation_apple.gif?raw=true)
-
-*Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
+*Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>. Puedes verla animada [aquí](https://github.com/k488-bit/Challenge_CdeCMx/blob/master/Images/Animation_apple.gif)*
 
 *\* Revisar sección "Sobre estos datos".*
 
