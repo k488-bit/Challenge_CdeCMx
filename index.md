@@ -16,6 +16,7 @@ El brote de COVID-19, ha tenido un gran impacto en nuestra vida diaria, cambiand
 EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
+
 Imagen 1. Representación animada del COVID-19
 
 ### Sintomas
