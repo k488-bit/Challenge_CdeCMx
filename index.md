@@ -1,7 +1,7 @@
 Sobre los contagios de COVID-19 en Monterrey
 ===================
 
-## Contenido
+### Contenido
 - COVID-19
   * Síntomas
 - Panorama de Monterrey
@@ -37,7 +37,7 @@ Son bien sabidas las medidas preventivas planteadas en México:
 > Quédate en casa, mantén la sana distancia y 
 > aplica medidas higiénicas
 
-Nuevo León no fue la excepción a estas medidas, [aquí](https://www.nl.gob.mx/publicaciones/cuales-son-las-medidas-de-prevencion-por-covid-19) encontrarás algunas recomendaciones publicadas por el gobierno. Hacia finales de marzo, se suspendieron las clases presenciales y las actividades no esenciales. Sin embargo, esto quizás fue apresurado.
+Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaciones/cuales-son-las-medidas-de-prevencion-por-covid-19) encontrarás algunas recomendaciones publicadas por el gobierno. Hacia finales de marzo, se suspendieron las clases presenciales y las actividades no esenciales. Sin embargo, esto quizás fue apresurado.
 
 ![Casos en Mty](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Casos_Monterrey.png)
 
@@ -53,6 +53,8 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 ### Contaminación del aire
 
+Los contaminantes que consideraremos aquí son el ozono (O_3) y el material particulado 2.5 (PM_{2.5}).
+
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/daily_mean_pollutants.png)
@@ -60,7 +62,6 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/daily_max_pollutants.png)
 
 *Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>*
-
 
 ### Factor social
 
@@ -70,9 +71,9 @@ El alcalde de Monterrey anunció que las actividades económicas se reanudarían
 
 *Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
 
-\* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).
+*\* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).*
 
-La gráfica indica que si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Si revisamos los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se observa un comportamiento similar.
+La gráfica indica que si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Si revisamos los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se reactivaron las actividades económicas.
 
 
 ## Bibliografía
