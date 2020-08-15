@@ -66,6 +66,7 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
 
 *Ver \[5]*
+
 \* Revisar sección "Sobre estos datos" [aquí](https://www.apple.com/covid19/mobility).
 
 
@@ -81,3 +82,39 @@ Esta ciudad esta en costante desarrollo y movimiento. Por lo que, haciendo anali
 \[4] Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>
 
 \[5] Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>
+
+
+<section class="fdb-block team-2">
+  <div class="container">
+    <div class="row text-center justify-content-center">
+      <div class="col-8">
+        <h1>Team</h1>
+      </div>
+    </div>
+
+    <div class="row-50"></div>
+
+    <div class="row text-center justify-content-center">
+      <div class="col-sm-3 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/90057060_2813106402077235_7240844295849115648_n.jpg?_nc_cat=110&_nc_sid=730e14&_nc_ohc=tIXnx_CRL38AX_W4VX7&_nc_ht=scontent-qro1-1.xx&oh=ee2ed436ac3d1aee493773fa68fb6f07&oe=5F5DD5C8">
+
+        <h2>Karen López</h2>
+        <p>Founder</p>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/5.jpg">
+
+        <h2>Jacqueline Reyes</h2>
+        <p>Founder</p>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/7.jpg">
+
+        <h2>Reyna Martinez</h2>
+        <p>Founder</p>
+      </div>
+    </div>
+  </div>
+</section>
