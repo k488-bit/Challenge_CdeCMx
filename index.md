@@ -16,9 +16,7 @@ Espacio para imagen cualquiera
 # Monterrey, el escenario.
 Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al norte de México junto a la Sierra Madre Oriental ocupando una superficie total de nuevoleon de 64, 081.94 km^2. Con una Latitud: 25.6714, Longitud: -100.309 25° 40′ 17″ Norte, 100° 18′ 32″ Oeste.
 
-Espacio para imagen de la republica mexicana haciendo enfasis en Monterrey
-
-![](https://imagenes.milenio.com/uH6ehSmiw7jAtfoBIj3f1wybM0E=/958x596/https://www.milenio.com/uploads/media/2019/09/20/monterrey-fundada-septiembre-diego-montemayor_0_0_958_596.jpg)
+![](https://github.com/k488-bit/Challenge_CdeCMx/blob/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
 
 Esta ciudad esta en constante desarrollo y movimiento, 
 
