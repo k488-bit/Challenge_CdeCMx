@@ -34,7 +34,7 @@ El virus se propaga de persona a persona y por tocar superficies infectadas. Cua
 
 *Imagen obtenida de <https://www.mdpi.com/1999-4915/7/2/511/htm>*
 
-Es por esto que se propuso el distanciamiento social y las medidas de higiene, para no entrar en contacto con estas partículas. Además, se corre un mayor riesgo en reuniones en lugares cerrados o con mala ventilación, debido a que los aerosoles se mantienen en el aire por horas. 
+Es por esto que se propuso el distanciamiento social y las medidas de higiene, para no entrar en contacto con estos patógenos. Además, se corre un mayor riesgo en reuniones en lugares cerrados o con mala ventilación, debido a que los aerosoles se mantienen en el aire por horas. 
 
 
 ## Panorama de Monterrey
@@ -54,7 +54,7 @@ Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaci
 
 *Gráfica 1. Obtenida con datos de <https://coronavirus.gob.mx/>*
 
-El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año. (Ver \[forbes]) Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
+El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año (Ver \[forbes]). Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
 
 
 ## Temperatura
@@ -71,7 +71,7 @@ Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temp
 
 La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
 
-
+El ozono 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
 
@@ -87,6 +87,8 @@ La contaminación del aire representa un importante riesgo para la salud. Existe
 ### Movilidad
 
 ![Gráfica con datos de Apple](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Mobility_Apple.png)
+
+<img src="/k488-bit/Challenge_CdeCMx/blob/master/Images/Animation_apple.gif?raw=true" alt="Animation_apple.gif">
 
 *Gráfica obtenida con datos de <https://www.apple.com/covid19/mobility>*
 
@@ -112,11 +114,11 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 
 \[] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
 
+\[] ¿Qué es el ozono? Recuperado el 14 de agosto del 2020 de <http://www.aire.cdmx.gob.mx/descargas/noticias/que-es-ozono/que-es-ozono.pdf>
+
 \[] Ran Xu et al. The Modest Impact of Weather and Air Pollution on COVID-19 Transmission. Recuperado el 14 de agosto del 2020 de <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
 
 \[] 
-
-\[]
 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
