@@ -9,6 +9,11 @@ Covid-19 VS contaminación del aire: una relación tóxica
 
 El brote de COVID-19, ha tenido un gran impacto en nuestra vida diara, cambiando nuestro mundo y llevandonos al camino de la adaptación. Todo esto, nos llevo a cambiar nuestro entorno, el uso del automovil, grandes empresas, etcétera. ¿Se puede relacionar el brote de COVID-19 con la contaminacion ambiental? Y si hacemos un analisis más a fondo, ¿Se podria relacionar con el PM 2.5 y el clima? Vamos a descubrirlo en el centro de la ciudad de Monterrey.
 
+<div class="data-embeds">
+<iframe allowfullscreen="" class="data-embed is-active" frameborder="0" src="https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB"></iframe>
+<iframe allowfullscreen="" class="data-embed" frameborder="0" src="https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB"></iframe>
+</div>
+
 Espacio para imagen cualquiera
 
 ## Monterrey, el escenario.
