@@ -10,11 +10,11 @@ Sobre los contagios de COVID-19 en Monterrey
 - Contaminación del aire
 - Factor social
 
-El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
+El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
 
 ## Covid-19
 
-EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
+El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
 
@@ -22,7 +22,7 @@ EL COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha de
 
 ### Síntomas
 
-Los síntomas más comunes son la fiebre, la tos seca y el cansancio. Mientras que otros menos frecuentes dolores de cabeza y de garganta, congestión nasal, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. No todas las personas tienen los mismos sintomas y algunos suelen ser leves; además, se tiene gran índice de personas asintomáticas. 
+Los síntomas más comunes son la fiebre, la tos seca y el cansancio. Mientras que otros menos frecuentes dolores de cabeza y de garganta, congestión nasal, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. No todas las personas tienen los mismos sintomas y algunos suelen ser leves; además, se tiene un gran índice de personas asintomáticas. 
 
 Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las personas se recuperan sin la necesidad de acudir a un hospital. Además, alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas que son más vulnerables, o bien, que pueden tener más probabilidades de presentar cuadros graves son los adultos mayores y/o las personas que padecen de hipertensión arterial, problemas cardíacos, pulmonares, diabetes o cáncer.
 
@@ -54,12 +54,12 @@ Nuevo León no fue la excepción a ello, [aquí](https://www.nl.gob.mx/publicaci
 
 *Gráfica 1. Obtenida con datos de <https://coronavirus.gob.mx/>*
 
-El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año (Ver \[forbes]). Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
+El alcalde de Monterrey anunció que las actividades económicas se reanudarían el 14 de mayo del presente año (Ver \[7]). Podemos observar en la gráfica anterior que a mediados de mayo se disparó el número de casos en este municipio, pudiendo deberse a esta decisión. Por supuesto, existen muchos factores que influyen en el comportamiento de los contagios, y a continuación se analizará algunos de ellos.
 
 
 ## Temperatura
 
-A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[Ran Xu]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
+A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[11]). Verificamos la climatología en Monterrey, realizando una gráfica que se muestra a continuación.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Figura_Climatologia_Mty.png)
 
@@ -71,9 +71,9 @@ Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temp
 
 La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
 
->Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. La limpieza mucociliar decrece por la exposición aguda. Los macrófagos alveolares, responsables de la limpieza en la región pulmonar y participantes en la respuesta inmune, pueden disminuir su fagocitosis y su actividad metabólica antimicrobial, incrementar la liberación de prostaglandinas y alterar su cantidad. Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa.
+> Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. \[...] Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa.
 
-*Ver \[aire.cdmx]*
+> *Ver \[10]*
 
 
 
@@ -98,7 +98,7 @@ La contaminación del aire representa un importante riesgo para la salud. Existe
 
 La gráfica indica que, si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Al revisar los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se reactivaron las actividades económicas.
 
-Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[infobae]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
+Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[2]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
 
 
 
@@ -106,21 +106,29 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 
 ** Se llegó a esta conclusión en conjunto con el equipo A08. Puedes encontrar más información sobre el COVID-19 en San Pedro [aquí]()
 
-\[] Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19. Recuperado el 15 de agosto del 2020 de <https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19>
+\[1] Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19. Recuperado el 15 de agosto del 2020 de <https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19>
 
-\[] Así es San Pedro Garza García, la ciudad más rica de México que implementó la Fase 4 de contingencia por COVID-19. Recuperado el 14 de agosto del 2020 de <https://www.infobae.com/america/mexico/2020/04/25/asi-es-san-pedro-garza-garcia-la-ciudad-mas-rica-de-mexico-que-implemento-la-fase-4-de-contingencia-por-covid-19/>
+\[2] Así es San Pedro Garza García, la ciudad más rica de México que implementó la Fase 4 de contingencia por COVID-19. Recuperado el 14 de agosto del 2020 de <https://www.infobae.com/america/mexico/2020/04/25/asi-es-san-pedro-garza-garcia-la-ciudad-mas-rica-de-mexico-que-implemento-la-fase-4-de-contingencia-por-covid-19/>
 
-\[] Monterrey reiniciará actividades económicas el 14 de mayo, Forbes México. Recuperado el 14 de agosto del 2020 de <https://www.forbes.com.mx/economia-monterrey-reiniciara-actividades-economicas-14-mayo/>
+\[3] B. Brunekreef, S. T. Holgate **Air pollution and health** 
 
-\[] Nuevo León y sus principales sectores productivos y estratégicos. Recuperado el 14 de agosto del 2020 de <https://www.gob.mx/se/articulos/nuevo-leon-y-sus-principales-sectores-productivos-y-estrategicos>
+\[4] E. Conticini, B. Frediani, D. Caro **Can atmospheric pollution be considered a co-factor in extremely high level of SARS-CoV-2 lethality in Northern Italy?** Recuperado el 14 de agosto del 2020 de <https://www.sciencedirect.com/science/article/pii/S0269749120320601#cebib0010>
 
-\[] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
+\[5] E. E. Félix-Arellano, A. Schilman, M. Hurtado-Díaz et al **Revisión rápida: contaminación del aire y morbimortalidad por Covid-19**
 
-\[] ¿Qué es el ozono? Recuperado el 14 de agosto del 2020 de <http://www.aire.cdmx.gob.mx/descargas/noticias/que-es-ozono/que-es-ozono.pdf>
+\[6] F. Dutheil, J. S. Baker, V. Navel **Covid-19 as a factor influencing air pollution?** Disponible en <https://www.sciencedirect.com/science/article/pii/S0269749120316468>
 
-\[] Ran Xu et al. The Modest Impact of Weather and Air Pollution on COVID-19 Transmission. Recuperado el 14 de agosto del 2020 de <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
+\[7] Monterrey reiniciará actividades económicas el 14 de mayo, Forbes México. Recuperado el 14 de agosto del 2020 de <https://www.forbes.com.mx/economia-monterrey-reiniciara-actividades-economicas-14-mayo/>
 
-\[] 
+\[8] Nuevo León y sus principales sectores productivos y estratégicos. Recuperado el 14 de agosto del 2020 de <https://www.gob.mx/se/articulos/nuevo-leon-y-sus-principales-sectores-productivos-y-estrategicos>
+
+\[9] Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). Recuperado el 14 de agosto del 2020 de <https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses>
+
+\[10] ¿Qué es el ozono? Recuperado el 14 de agosto del 2020 de <http://www.aire.cdmx.gob.mx/descargas/noticias/que-es-ozono/que-es-ozono.pdf>
+
+\[11] Ran Xu et al. **The Modest Impact of Weather and Air Pollution on COVID-19 Transmission** Disponible en <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
+
+
 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
