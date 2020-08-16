@@ -102,7 +102,7 @@ Tomando en cuenta estos niveles de contaminantes en Monterrey, veamos lo que sig
 
 La gráfica indica que, si bien al principio de la contingencia se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Al revisar los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se retomaron las actividades económicas.
 
-Monterrey forma parte de la Zona Metropolitana, junto a otros 11 municipios. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[2]). Monterrey, a causa de esta cercanía con San Pedro, presentó pequeños brotes como se observa en la _gráfica 1_ en el mes marzo. **
+Monterrey forma parte de la Zona Metropolitana, junto a otros 11 municipios. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas \[2]. Monterrey, a causa de esta cercanía con San Pedro, presentó pequeños brotes como se observa en la _gráfica 1_ en el mes marzo. **
 
 
 
