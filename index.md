@@ -73,6 +73,8 @@ Hay fuerte evidencia de que la contaminación del aire representa un importante 
 
 Se sabe que la exposición a contaminantes como NO2, SO2 y PM 2.5 cotribuye a enfermedades cardiovasculares, reduce la función pulmonar y causa enfermedades respiratorias \[3]. "Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. \[...] Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa" \[10]. En concreto, el ozono y PM 2.5 llega hasta la zona alveolar de los pulmones, lo que provoca una gran susceptabilidad a patógenos.
 
+Además, Abraham Ortínez de la Coordinación General de Contaminación y Salud Ambiental INECC México, indica que "la exposición a partículas finas (PM2.5), ozono y otros componentes del aire contaminado provocan procesos de estrés oxidante e inflamación de las víasrespiratorias y los pulmones ocasionando efectos adversos a la salud de las personas en el corto y largo plazo y alteran de manera importante la respuesta del sistema inmunológico". \[12]
+
 Conticini et al \[4] concluyó que las concentraciones de contaminantes son un potencial contribuidor a la tasa de mortalidad por COVID-19 presente en la región de estudio, al norte de Italia.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
