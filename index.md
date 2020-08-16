@@ -12,9 +12,9 @@ Sobre los contagios de COVID-19 en Monterrey
 
 El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
 
-## Covid-19
+## COVID-19
 
-El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el COVID-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
+El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el Covid-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
 
@@ -24,7 +24,7 @@ El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha de
 
 Los síntomas más comunes son la fiebre, la tos seca y el cansancio. Mientras que otros menos frecuentes dolores de cabeza y de garganta, congestión nasal, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. No todas las personas tienen los mismos sintomas y algunos suelen ser leves; además, se tiene un gran índice de personas asintomáticas. 
 
-Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las personas se recuperan sin la necesidad de acudir a un hospital. Además, alrededor de 1 de cada 5 personas que contraen la COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas que son más vulnerables, o bien, que pueden tener más probabilidades de presentar cuadros graves son los adultos mayores y/o las personas que padecen de hipertensión arterial, problemas cardíacos, pulmonares, diabetes o cáncer.
+Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las personas se recuperan sin la necesidad de acudir a un hospital. Además, alrededor de 1 de cada 5 personas que contraen COVID‑19 acaba presentando un cuadro grave y experimenta dificultades para respirar. Las personas que son más vulnerables, o bien, que pueden tener más probabilidades de presentar cuadros graves son los adultos mayores y/o las personas que padecen de hipertensión arterial, problemas cardíacos, pulmonares, diabetes o cáncer.
 
 ### ¿Cómo se contagia el coronavirus?
 
@@ -65,16 +65,17 @@ A los 25 °C se muestra un decremento en la reproducción de casos (Ver \[11]). 
 
 *Gráfica obtenida con datos de <https://es.climate-data.org>*
 
-Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos hubieran aumentado aún más de no ser por las temperaturas altas que se suelen presentar.
+Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temperaturas mayores a 25 °C. Sin embargo, recordando la gráfica 1, los casos han aumentado considerablemente a mediados de mayo; esto indica que hay otros factores más importantes. Es posible que los casos de COVID-19 hubieran aumentado aún más de no ser por las temperaturas altas que se suelen presentar.
 
 ## Contaminación del aire
 
-La contaminación del aire representa un importante riesgo para la salud. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono (O3) y el material particulado 2.5 (PM2.5).
+Hay fuerte evidencia de que la contaminación del aire representa un importante riesgo para la salud, [aquí](https://vizhub.healthdata.org/gbd-compare/) se pueden ver algunos datos de manera interactiva, al seleccionar `risk air pollution`. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono O3 y el material particulado PM 2.5.
 
 > Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. \[...] Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa.
+>
 > *Ver \[10]*
 
-
+Conticini et al 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/pollutants_raw.png)
 
@@ -109,11 +110,11 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 
 \[2] Así es San Pedro Garza García, la ciudad más rica de México que implementó la Fase 4 de contingencia por COVID-19. Recuperado el 14 de agosto del 2020 de <https://www.infobae.com/america/mexico/2020/04/25/asi-es-san-pedro-garza-garcia-la-ciudad-mas-rica-de-mexico-que-implemento-la-fase-4-de-contingencia-por-covid-19/>
 
-\[3] B. Brunekreef, S. T. Holgate **Air pollution and health** 
+\[3] Cole, Matthew & Ozgen, Ceren & Strobl, Eric. (2020). **Air Pollution Exposure and COVID-19**. Disponible en <https://www.researchgate.net/publication/342233489_Air_Pollution_Exposure_and_COVID-19>
 
 \[4] E. Conticini, B. Frediani, D. Caro **Can atmospheric pollution be considered a co-factor in extremely high level of SARS-CoV-2 lethality in Northern Italy?** Recuperado el 14 de agosto del 2020 de <https://www.sciencedirect.com/science/article/pii/S0269749120320601#cebib0010>
 
-\[5] E. E. Félix-Arellano, A. Schilman, M. Hurtado-Díaz et al **Revisión rápida: contaminación del aire y morbimortalidad por Covid-19**
+\[5] E. E. Félix-Arellano, A. Schilman, M. Hurtado-Díaz et al **Revisión rápida: contaminación del aire y morbimortalidad por Covid-19** Salud Publica Mex. 2020.
 
 \[6] F. Dutheil, J. S. Baker, V. Navel **Covid-19 as a factor influencing air pollution?** Disponible en <https://www.sciencedirect.com/science/article/pii/S0269749120316468>
 
@@ -127,7 +128,7 @@ Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 mu
 
 \[11] Ran Xu et al. **The Modest Impact of Weather and Air Pollution on COVID-19 Transmission** Disponible en <https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf>
 
-
+\[12]Webinar Gobernanza de la Calidad del Aire y Salud, Organización Panamericana de la Salud. **¿Qué nos dice el Monitoreo de la Calidad del Aire en el Contexto del COVID-19?** Abraham Ortínez, Coordinación General de Contaminación y Salud Ambiental INECC México.
 
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/master/Images/Logo-Clubes-Negro.png)
