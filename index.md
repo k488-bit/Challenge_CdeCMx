@@ -10,11 +10,11 @@ Sobre los contagios de COVID-19 en Monterrey
 - Contaminación del aire
 - Factor social
 
-El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación. Todo esto nos llevó a obtener una nueva normalidad en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, una atinada decisión de las autoridades frente a tan difícil reto, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
+El brote de COVID-19 ha tenido un gran impacto en nuestra vida diaria, cambiando nuestro mundo y llevándonos al camino de la adaptación en distintos ámbitos como el comercio, nuestra interacción con las personas, etcétera. La principal medida de prevención es el distanciamiento social, una atinada decisión de las autoridades frente a tan difícil reto, pero ¿Qué otros aspectos influyen en el número de contagios? ¿Se puede relacionar el brote de COVID-19 con la contaminación ambiental? ¿Qué tanto impacto tienen las particulas PM 2.5 y la temperatura? Exploraremos estas cuestiones para la ciudad de Monterrey, realizando un análisis con ayuda de Python a partir de los datos de contagios, contaminación, climatología y movilidad.
 
 ## COVID-19
 
-El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el Covid-19 es una pandemia que afecta a muchos países del mundo de muchas maneras.
+El COVID-19 es una enfermedad infecciosa causada por el coronavirus que se ha descubierto en diciembre de 2019 en Wuhan (China). Los coronavirus son una familia de virus que puede causar enfermedades en animales y humanos así como infecciones respiratorias que pueden ir desde el resfriado hasta enfermedades más graves. Actualmente el Covid-19 es una pandemia que afecta a muchos países.
 
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/Coronavirus.gif)
 
@@ -28,7 +28,7 @@ Según la Organización Mundial de la Salud (OMS), alrededor del 80% de las pers
 
 ### ¿Cómo se contagia el coronavirus?
 
-El virus se propaga de persona a persona y por tocar superficies infectadas. Cuando una persona contagiada estornuda, tose o habla, puede transmitir el coronavirus. Existen diferentes medios por los que pasa esto: los **droplet**, partículas grandes que suelen caer en el piso a unos metros de la persona que lo expulsó; los **aerosoles**, partículas de tamaño menor que quedan suspendidos en el aire; y los **fomite**, que son los objetos infectados con estas partículas. Estos últimos dependen del tiempo de vida del SARS-CoV-2 en la superficie de dicho objeto, puedes consultar estos tiempos [aquí](https://www.webmd.com/lung/how-long-covid-19-lives-on-surfaces) o [aquí](https://www.nejm.org/doi/full/10.1056/NEJMc2004973).
+El virus se propaga de persona a persona y por tocar superficies infectadas. Cuando una persona contagiada estornuda, tose o habla, puede transmitir el coronavirus. Existen diferentes medios por los que pasa esto: los **droplet**, partículas grandes que suelen caer en el piso a unos metros de la persona que los expulsó; los **aerosoles**, partículas de tamaño menor que quedan suspendidas en el aire; y los **fomite**, que son los objetos infectados con estas partículas. Estos últimos dependen del tiempo de vida del SARS-CoV-2 en la superficie de dicho objeto, puedes consultar estos tiempos [aquí](https://www.webmd.com/lung/how-long-covid-19-lives-on-surfaces) o [aquí](https://www.nejm.org/doi/full/10.1056/NEJMc2004973).
 
 ![](https://www.mdpi.com/viruses/viruses-07-00511/article_deploy/html/images/viruses-07-00511-g001-1024.png)
 
@@ -44,7 +44,7 @@ Monterrey es una ciudad y capital del estado de Nuevo León. Esta ubicada al nor
 ![](https://raw.githubusercontent.com/k488-bit/Challenge_CdeCMx/gh-pages/Images/117645984_681250895804238_3205561972497632758_n.png)
 *República Mexicana localizando a Monterrey, Nuevo León*
 
-Son bien sabidas las medidas preventivas planteadas en México:
+Son bien sabidas las medidas de prevención planteadas en México:
 > Quédate en casa, mantén la sana distancia y 
 > aplica medidas higiénicas
 
@@ -69,11 +69,11 @@ Podemos observar que en Monterrey se tienen veranos largos, comúnmente con temp
 
 ## Contaminación del aire
 
-Hay fuerte evidencia de que la contaminación del aire representa un importante riesgo para la salud, [aquí](https://vizhub.healthdata.org/gbd-compare/) se pueden ver algunos datos de manera interactiva, al seleccionar `risk air pollution`. Existen diversos factores, pero pueden resumirse en ambientales y antropogénicos. Los contaminantes que consideraremos aquí son el ozono O3 y el material particulado PM 2.5.
+Hay fuerte evidencia de que la contaminación del aire representa un importante riesgo para la salud, [aquí](https://vizhub.healthdata.org/gbd-compare/) se pueden ver algunos datos de manera interactiva, al seleccionar `risk air pollution`. Los contaminantes que consideraremos aquí son el ozono O3 y el material particulado PM 2.5.
 
-Se sabe que la exposición a contaminantes como NO2, SO2 y PM 2.5 cotribuye a enfermedades cardiovasculares, reduce la función pulmonar y causa enfermedades respiratorias \[3]. "Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. \[...] Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa" \[10]. En concreto, el ozono y PM 2.5 llega hasta la zona alveolar de los pulmones, lo que provoca una gran susceptabilidad a patógenos.
+Se sabe que la exposición a contaminantes como NO2, SO2 y PM 2.5 cotribuye a enfermedades cardiovasculares, reduce la función pulmonar y causa enfermedades respiratorias \[3]. "Cuando el tracto respiratorio es expuesto al ozono se produce daño en el mismo, el alcance dependerá de la concentración de ozono, la duración de la exposición, los patrones de exposición y la ventilación. \[...] Estos efectos aumentan la susceptibilidad a las infecciones respiratorias. El ozono reduce la función pulmonar y hace más difícil la respiración profunda y vigorosa" \[10]. En concreto, el ozono y PM 2.5 llegan hasta la zona alveolar de los pulmones, lo que provoca una gran susceptabilidad a patógenos.
 
-Además, Abraham Ortínez de la Coordinación General de Contaminación y Salud Ambiental INECC México, indica que "la exposición a partículas finas (PM2.5), ozono y otros componentes del aire contaminado provocan procesos de estrés oxidante e inflamación de las víasrespiratorias y los pulmones ocasionando efectos adversos a la salud de las personas en el corto y largo plazo y alteran de manera importante la respuesta del sistema inmunológico" \[12]
+Además, Abraham Ortínez de la Coordinación General de Contaminación y Salud Ambiental INECC México, indica que "la exposición a partículas finas (PM2.5), ozono y otros componentes del aire contaminado provocan procesos de estrés oxidante e inflamación de las vías respiratorias y los pulmones ocasionando efectos adversos a la salud de las personas en el corto y largo plazo y alteran de manera importante la respuesta del sistema inmunológico" \[12]
 
 Conticini et al \[4] concluyó que las concentraciones de contaminantes son un potencial contribuidor a la tasa de mortalidad por COVID-19 presente en la región de estudio, al norte de Italia.
 
@@ -85,9 +85,9 @@ Conticini et al \[4] concluyó que las concentraciones de contaminantes son un p
 
 *Gráficos obtenidos con datos de <http://aire.nl.gob.mx/>*
 
-Tomando en cuenta estos niveles de contaminantes, veamos lo que significan estos niveles tan altos de acuerdo con Cole M et al (2020) \[3] para el caso de Países Bajos:
+Tomando en cuenta estos niveles de contaminantes en Monterrey, veamos lo que significan estos niveles tan altos de acuerdo con Cole M et al (2020) \[3] para el caso de Países Bajos:
 
->  Usando datos secundarios y administrativos encontramos evidencia convincente de una relación positiva entre la contaminación del aire, en particular las concentraciones de PM 2.5, y los casos de Covid-19, hospitalizacioes y defunciones. Esta relación persiste después de controlar una amplia gama de variables explicativas. Nuestros resultados indican que un aumento de 1 μ/m3 en las concentraciones de PM 2.5 se asocia con 9.4 casos más de COVID-19, 3.0 hospitalizaciones más y 2.3 fallecidos más.
+>  Usando datos secundarios y administrativos encontramos evidencia convincente de una relación positiva entre la contaminación del aire, en particular las concentraciones de PM 2.5, y los casos de COVID-19, hospitalizacioes y defunciones. Esta relación persiste después de controlar una amplia gama de variables explicativas. Nuestros resultados indican que un aumento de 1 μ/m3 en las concentraciones de PM 2.5 se asocia con 9.4 casos más de COVID-19, 3.0 hospitalizaciones más y 2.3 fallecidos más.
 
 
 ## Factor social
@@ -100,9 +100,9 @@ Tomando en cuenta estos niveles de contaminantes, veamos lo que significan estos
 
 *\* Revisar sección "Sobre estos datos".*
 
-La gráfica indica que, si bien al principio se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Al revisar los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se reactivaron las actividades económicas.
+La gráfica indica que, si bien al principio de la contingencia se redujo en gran medida la movilidad, en fechas más recientes los datos son muy próximos a los de antes de la pandemia. Al revisar los datos que proporciona [Waze](https://www.waze.com/es/covid19) para Monterrey, se tiene un comportamiento similar. Nuevamente, se observa un cambio considerable a partir de mediados de mayo, cuando se retomaron las actividades económicas.
 
-Monterrey forma parte de la Zona Metropolitana de Monterrey, junto a otros 11 municipios; esta zona cuenta con 4.1 millones de habitantes. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[2]). Monterrey, a causa de esta cercanía con San Pedro, tiene pequeños brotes como se observa en la _gráfica 1_ a mediados de marzo. **
+Monterrey forma parte de la Zona Metropolitana, junto a otros 11 municipios. Contiguo a Monterrey se encuentra San Pedro Garza García, un municipio muy desarrollado económica, social e industrialmente. Debido a que la población de esta ciudad acostumbra viajar internacionalmente por su condición socioeconómica, San Pedro reportó el doceavo caso a nivel nacional el 4 de marzo y ha sido una de las ciudades más afectadas (Ver \[2]). Monterrey, a causa de esta cercanía con San Pedro, presentó pequeños brotes como se observa en la _gráfica 1_ en el mes marzo. **
 
 
 
