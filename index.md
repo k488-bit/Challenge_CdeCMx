@@ -108,7 +108,7 @@ Monterrey forma parte de la Zona Metropolitana, junto a otros 11 municipios. Con
 
 ## Bibliografía
 
-** Se llegó a esta conclusión en conjunto con el equipo A08. Puedes encontrar más información sobre el COVID-19 en San Pedro [aquí]()
+** Se llegó a esta conclusión en conjunto con el equipo A08. Puedes encontrar más información sobre el COVID-19 en San Pedro [aquí](https://hjaviervr.github.io/PM2.5-y-Covid-19-en-San-Pedro-Garza-Garcia/)
 
 \[1] Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19. Recuperado el 15 de agosto del 2020 de <https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19>
 
